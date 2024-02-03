@@ -3,8 +3,10 @@
 <head>
 <meta charset="ISO-8859-1">
 <title>Insert title here</title>
-</head>
+</head>    
 <body>
+  <P>In publishing and graphic design, Lorem ipsum is a placeholder
+    text commonly used to demonstrate the visual form of a document</P>
       <h2>Register below </h2>
       <form action="GreenController" method="post">
   <table>
